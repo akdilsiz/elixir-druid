@@ -1,5 +1,7 @@
 # Druid client for elixir
 
+*** In this project [rubdy-druid](https://github.com/ruby-druid/ruby-druid) project is taken as a reference.
+
 This project on going work
 
 **TODO: Add description**
@@ -20,4 +22,4 @@ All contributions are welcomed as long as you follow the conventions of *Elixir*
 
 ## License
 
-MIT
+Apache License 2.0
